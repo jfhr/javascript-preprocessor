@@ -72,7 +72,7 @@ value in the dictionary of definitions.
 ```
 
 All lines from here to the matching `endif` statement are included in the output only if the given variable has a falsy
-value in the dictionary of definitions.
+value (or no value) in the dictionary of definitions.
 
 ### endif
 
