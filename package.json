@@ -1,0 +1,12 @@
+{
+  "name": "jpp",
+  "version": "1.0.0",
+  "description": "A very simple JavaScript or general-purpose preprocessor.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": ["preprocessor"],
+  "author": "jfhr <me@jfhr.de>",
+  "license": "Apache-2.0"
+}
